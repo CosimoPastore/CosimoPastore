@@ -28,7 +28,7 @@ Sono sempre pronto per nuove sfide! 💪
 ![Spring Boot]( https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL]( https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Version Control
+#### Strumenti
 ![GitHub]( https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
