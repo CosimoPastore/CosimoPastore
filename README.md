@@ -2,12 +2,17 @@
   
 &nbsp;
 
-Ciao a tutti! Sono Cosimo uno **Junior Full Stack Developer** 🧑‍💻, amante di tecnologia e programmazione.
-Il 13.06.2025 ho completato il percorso (Bootcamp) intensivo di sviluppo web e adesso sono impegnato a fare i primi passi nel mondo dello sviluppo, sia lato frontend sia lato backend.
-Durante il percorso formativo ho avuto a che fare con #HTML5, CSS3, React, Redux, Bootstrap, Java con Spring Boot e PostgreSQL 🚀. Tendo ad avere una forte attenzione ai piccoli dettagli e cerco di trovare sempre le migliori soluzioni nel modo più smart. 
+Ciao a tutti! Sono Cosimo uno **Junior Full Stack Developer** 🧑‍💻, sviluppatore amante di tecnologia e programmazione.
+Con competenze principalmente in HTML5, CSS, React, Bootstrap, Java, Python. Brevi esperienze con Springboot e MySQL.
+Il 13.06.2025 ho completato un Bootcamp intensivo per Full stack Developer, dedicandomi sia sul lato frontend sia lato backend.
+Durante il percorso formativo ho avuto a che fare con HTML5, CSS3, React, Redux, Bootstrap, Java con Spring Boot e PostgreSQL 🚀. Tendo ad avere una forte attenzione ai piccoli dettagli e cerco di trovare sempre le migliori soluzioni nel modo più smart. 
 Il mio obiettivo è creare prodotti digitali completi, scalabili e ben progettati 🌐.
-Se hai un progetto interessante o vuoi fare networking, scrivimi pure. 
-Sono sempre pronto per nuove sfide! 💪
+Apprezzo particolarmente il lavoro metodico e modulare, con attenzione alla qualità del codice e alla risoluzione efficace di problemi complessi. 
+Sono inoltre abituato a collaborare in team multidisciplinari e a comunicare con chiarezza anche con figure non tecniche. 
+Sarei lieto di poter contribuire con le mie competenze al successo dei Vostri progetti e di approfondire in un colloquio le nostre conoscenze.
+
+Resto a disposizione per ulteriori informazioni e porgo cordiali saluti.
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/cosimopastore )
