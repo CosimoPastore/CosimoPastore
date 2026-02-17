@@ -25,8 +25,10 @@ Sono sempre pronto per nuove sfide! 💪
 ![Bootstrap]( https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend
+![Java](https://img.shields.io/badge/java-%23b07219.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot]( https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL]( https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### Strumenti
 ![GitHub]( https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
