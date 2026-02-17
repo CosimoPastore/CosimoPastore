@@ -5,7 +5,7 @@
 Ciao a tutti! Sono Cosimo uno **Junior Full Stack Developer** 🧑‍💻, sviluppatore amante di tecnologia e programmazione.
 Con competenze principalmente in HTML, CSS, React, Bootstrap, Java, Python. Brevi esperienze con Springboot e MySQL.<br>
 Il 13.06.2025 ho completato un Bootcamp intensivo per Full stack Developer.
-Durante il percorso formativo ho avuto a che fare con HTML5, CSS3, React, Redux, Bootstrap, Java con Spring Boot e PostgreSQL. Tendo ad avere una forte attenzione ai piccoli dettagli e cerco di trovare sempre le migliori soluzioni nel modo più smart. 
+Durante il percorso formativo ho potuto far pratica con HTML5, CSS3, React, Redux, Bootstrap, Java con Spring Boot e PostgreSQL. Tendo ad avere una forte attenzione ai piccoli dettagli e cerco di trovare sempre le migliori soluzioni nel modo più smart.<br>
 Il mio obiettivo è creare prodotti digitali completi, scalabili e ben progettati 🌐.
 Apprezzo particolarmente il lavoro metodico e modulare, con attenzione alla qualità del codice e alla risoluzione efficace di problemi complessi. 
 Sono inoltre abituato a collaborare in team multidisciplinari e a comunicare con chiarezza anche con figure non tecniche. 
